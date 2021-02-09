@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Memer</string>
+    <string name="send_to">Send Meme To...</string>
+</resources>
