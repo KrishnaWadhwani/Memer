@@ -20,13 +20,16 @@ I Will Soon Release Memer On Playstore
 
 # Screenshots
 
-<img src = "https://user-images.githubusercontent.com/61587047/123535457-7e7e8900-d741-11eb-86b1-3642c7b094eb.png" height = 512 width = 288>
-<img src = "https://user-images.githubusercontent.com/61587047/123535459-80e0e300-d741-11eb-8b45-ada29c660796.png" height = 512 width = 288>
-<img src = "https://user-images.githubusercontent.com/61587047/123535460-82aaa680-d741-11eb-8732-9e8cf977708b.png" height = 512 width = 288>
-<img src = "https://user-images.githubusercontent.com/61587047/123535462-84746a00-d741-11eb-97e3-27f73679edbc.png" height = 512 width = 288>
-<img src = "https://user-images.githubusercontent.com/61587047/123535465-86d6c400-d741-11eb-8096-bfb225a77d8b.png" height = 512 width = 288>
-<img src = "https://user-images.githubusercontent.com/61587047/123535467-88a08780-d741-11eb-84cd-84e669dcfc8f.png" height = 512 width = 288>
-<img src = "https://user-images.githubusercontent.com/61587047/123535469-8a6a4b00-d741-11eb-87bb-fbf1250d82e3.png" height = 512 width = 288>
+![Memer1](https://user-images.githubusercontent.com/61587047/123759025-23819900-d8dd-11eb-96b9-7f26b22352b9.png)
+![Memer2](https://user-images.githubusercontent.com/61587047/123759032-24b2c600-d8dd-11eb-82bc-43b3bed49ec8.png)
+![Memer3](https://user-images.githubusercontent.com/61587047/123759035-25e3f300-d8dd-11eb-9986-ca8e3bb7eab5.png)
+![Memer4](https://user-images.githubusercontent.com/61587047/123759069-2da39780-d8dd-11eb-8bb3-65116456a8d6.png)
+![Memer5](https://user-images.githubusercontent.com/61587047/123759072-2f6d5b00-d8dd-11eb-99ad-3b318546b828.png)
+![Memer6](https://user-images.githubusercontent.com/61587047/123759073-309e8800-d8dd-11eb-87c4-1e52e45c7984.png)
+![Memer7](https://user-images.githubusercontent.com/61587047/123759079-31cfb500-d8dd-11eb-8de1-ff5b945c0dc1.png)
+![Memer8](https://user-images.githubusercontent.com/61587047/123759100-37c59600-d8dd-11eb-9ae3-dfbd043d22b4.png)
+
+
 
 # API
 
