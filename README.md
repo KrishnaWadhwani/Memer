@@ -16,7 +16,8 @@ Some Functionalities:
 
 # Playstore Link
 
-https://play.google.com/store/apps/details?id=com.memer
+<a href="https://play.google.com/store/apps/details?id=com.memer">
+<img alt="Memer Playstore link" height = 100 src="https://user-images.githubusercontent.com/61587047/124344330-07d50600-dbef-11eb-8efe-88bb170f49af.png">
 
 # Updates
 
