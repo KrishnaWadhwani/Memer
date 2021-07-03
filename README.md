@@ -41,6 +41,10 @@ https://meme-api.herokuapp.com/gimme
 
 I Am Not Responsible For Any Kind Of Bad Meme
 
+# Stats Of This Repository
+
+[![Stats](https://github-readme-stats.vercel.app/api/pin/?username=KrishnaWadhwani&repo=Memer&theme=dracula)](https://github.com/KrishnaWadhwani)
+
 # Credits
 
  - Developed In JAVA By Krishna Wadhwani
