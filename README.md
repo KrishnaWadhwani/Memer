@@ -38,6 +38,11 @@ I Will Soon Release Memer On Playstore
 
 https://meme-api.herokuapp.com/gimme
 
+# Privacy Policy
+
+1) I Am Not Responsible For Any Kind Of Bad Meme
+2) No data is collected from your phone
+ 
 # Note
 
 I Am Not Responsible For Any Kind Of Bad Meme
