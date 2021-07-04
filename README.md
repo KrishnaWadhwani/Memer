@@ -32,7 +32,7 @@ I Will Soon Release Memer On Playstore
 ![Memer5](https://user-images.githubusercontent.com/61587047/123759072-2f6d5b00-d8dd-11eb-99ad-3b318546b828.png)
 ![Memer6](https://user-images.githubusercontent.com/61587047/123759073-309e8800-d8dd-11eb-87c4-1e52e45c7984.png)
 ![Memer7](https://user-images.githubusercontent.com/61587047/123759079-31cfb500-d8dd-11eb-8de1-ff5b945c0dc1.png)
-![Memer8](https://user-images.githubusercontent.com/61587047/123759100-37c59600-d8dd-11eb-9ae3-dfbd043d22b4.png)
+
 
 # API
 
