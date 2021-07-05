@@ -21,7 +21,7 @@ Some Functionalities:
 
 # Updates
 
-I Will Soon Release Memer On Playstore
+Live On Playstore :-)
 
 # Screenshots
 
